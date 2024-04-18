@@ -1,4 +1,4 @@
-Class project [submitted](https://drive.google.com/file/d/1Jb611T8DZr1AreRpRU-b2-4Xez0ZQBNM/view?usp=sharing) for 633 class in CSU in 2019.
+### Class project [submitted](https://drive.google.com/file/d/1Jb611T8DZr1AreRpRU-b2-4Xez0ZQBNM/view?usp=sharing) for 633 class in CSU in 2019.
 
 Implementing RL stuff with T-Rex browser game. Practical reading of the book: **_Andrew Barto and Richard S. Sutton._** [**_Reinforcement Learning: An Introduction._**](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) **_Second edition. The MIT Press, 2015_**.
 =======
