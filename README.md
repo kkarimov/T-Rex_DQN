@@ -5,5 +5,9 @@ Second edition. The MIT Press, 2015](https://web.stanford.edu/class/psych209/Rea
 =======
 
 Couldn't recover the actual code, since I changed two laptops since then, but the [video](https://youtu.be/B6OjPTwZ6Qs?si=onMaMRP1V_2UUJT6) of the training process is still out there:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B6OjPTwZ6Qs?si=BB37w28K-EPJ7sdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p align="center">
+  <a href="https://youtu.be/B6OjPTwZ6Qs?si=onMaMRP1V_2UUJT6">
+    <img src="https://drive.google.com/file/d/1A_leurqMkw9PXyS6_ujxiSsuCZDXobnY/view?usp=sharing" alt="Logo">
+</p>
 
