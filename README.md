@@ -4,10 +4,10 @@ Implementing RL stuff from [Andrew Barto and Richard S. Sutton. Reinforcement Le
 Second edition. The MIT Press, 2015](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) wit T-Rex Game in browser
 =======
 
-Couldn't recover the actual code, since I changed two laptops since then, but the [video](https://youtu.be/B6OjPTwZ6Qs?si=onMaMRP1V_2UUJT6) of the training process is still out there:
+Couldn't recover the actual code, since I changed two laptops since then, but the [video](https://www.youtube.com/watch?v=B6OjPTwZ6Qs) of the training process is still out there:
 
 <p align="center">
-  <a href="https://youtu.be/B6OjPTwZ6Qs?si=onMaMRP1V_2UUJT6">
+  <a href="https://www.youtube.com/watch?v=B6OjPTwZ6Qs">
     <img src="https://raw.githubusercontent.com/kkarimov/T_Rex_DQN/master/thumbnail.png" alt="Logo">
 </p>
 
