@@ -8,6 +8,6 @@ Couldn't recover the actual code, since I changed two laptops since then, but th
 
 <p align="center">
   <a href="https://youtu.be/B6OjPTwZ6Qs?si=onMaMRP1V_2UUJT6">
-    <img src="https://drive.google.com/file/d/1A_leurqMkw9PXyS6_ujxiSsuCZDXobnY/view?usp=sharing" alt="Logo">
+    <img src="https://raw.githubusercontent.com/kkarimov/T_Rex_DQN/master/thumbnail.png" alt="Logo">
 </p>
 
